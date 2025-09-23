@@ -1,0 +1,19 @@
+L006
+Dell XPS 13
+10000000
+Ultrabook
+3
+Bekas
+Dell
+Putih
+Intel Core i7
+
+L007
+MSI Modern 14
+12000000
+Multimedia
+12
+Baru
+MSI
+Abu-abu
+AMD Ryzen 5
