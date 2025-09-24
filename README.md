@@ -65,7 +65,7 @@ Program ini memiliki 3 class dengan hubungan **Multilevel Inheritance**:
    - Program berhenti dan tidak menerima input lagi.  
 
 
-## Dokumentasi  
+## Dokumentasi Python
 
 ### 1. Tampilan menu saat program dimulai  
 <img width="753" height="211" alt="menu" src="https://github.com/user-attachments/assets/02d205e0-db8b-4e0c-b604-ff41c2cdf917" />
@@ -82,8 +82,47 @@ Program ini memiliki 3 class dengan hubungan **Multilevel Inheritance**:
 ### 5. Keluar dari program (opsi 3)  
 <img width="687" height="201" alt="exit" src="https://github.com/user-attachments/assets/4e720bd9-f471-4b9c-8174-67ec1960fceb" />
 
+## Dokumentasi C++
+
+### 1. Tampilan menu saat program dimulai  
+<img width="808" height="230" alt="image" src="https://github.com/user-attachments/assets/a9c5f4c1-a1ae-4c1b-bca7-d7320a7d8ef2" />
+
+### 2. Menampilkan data awal (opsi 2)  
+<img width="900" height="385" alt="image" src="https://github.com/user-attachments/assets/1f5c3861-e5bd-4c93-9eaf-f0e51bd200d1" />
+
+### 3. Mengisi data baru (opsi 1)  
+<img width="374" height="288" alt="image" src="https://github.com/user-attachments/assets/0e0932c0-f47a-4f5f-9698-70eb14ac8d18" />
+
+### 4. Menampilkan tabel setelah penambahan data  
+<img width="890" height="311" alt="image" src="https://github.com/user-attachments/assets/6646b0ab-2e25-4d73-b324-c08b15dc88c3" />
+
+### 5. Keluar dari program (opsi 3)  
+<img width="661" height="218" alt="image" src="https://github.com/user-attachments/assets/c999fb3e-d98c-4829-a557-4d26af179442" />
+
+## Dokumentasi Java
+
+### 1. Tampilan menu saat program dimulai  
+<img width="786" height="237" alt="image" src="https://github.com/user-attachments/assets/4d9f3486-4152-4a09-9b0c-9b41c55dd70c" />
+
+### 2. Menampilkan data awal (opsi 2)  
+<img width="1014" height="385" alt="image" src="https://github.com/user-attachments/assets/f7e0a963-8040-4025-a6c8-3efa764ad3b2" />
+
+### 3. Mengisi data baru (opsi 1)  
+<img width="366" height="292" alt="image" src="https://github.com/user-attachments/assets/7a2f3788-3bbb-4231-9ed5-c1ff44aae9b9" />
+
+### 4. Menampilkan tabel setelah penambahan data  
+<img width="1022" height="302" alt="image" src="https://github.com/user-attachments/assets/f9106c87-5dd9-405b-8762-ddda78e0712c" />
+
+### 5. Keluar dari program (opsi 3)  
+<img width="639" height="195" alt="image" src="https://github.com/user-attachments/assets/cd48ac9a-2c94-448d-8998-53d38f1db9fd" />
+
+## Dokumentasi PHP
+
+### Tampilan menu saat program dimulai  
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/515fb33b-2166-4150-90a3-5176b85df335" />
+
 
 ## Catatan  
-- Program ditulis menggunakan **C++, Java, Paython, dan Php**.  
+- Program ditulis menggunakan **C++, Java, Python, dan Php**.  
 - Menggunakan konsep **OOP Multilevel Inheritance**.  
 - Tampilan data dibuat dalam bentuk **tabel dinamis**.  
