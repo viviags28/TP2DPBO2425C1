@@ -1,12 +1,6 @@
 # Tugas Program 2  
-Multilevel Inheritance: **Toko → Elektronik → Laptop**
-
----
-
 # Janji
 Saya Vivi Agustina Suryana dengan NIM 2400456 mengerjakan Tugas Praktikum 2 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan.
-
----
 
 ## Diagram  
 <img width="227" height="545" alt="Diagram tp2" src="https://github.com/user-attachments/assets/2871b46b-00bd-4d7f-8fd4-51594835c2e6" />
@@ -18,15 +12,15 @@ Saya Vivi Agustina Suryana dengan NIM 2400456 mengerjakan Tugas Praktikum 2 dala
 Program ini memiliki 3 class dengan hubungan **Multilevel Inheritance**:  
 
 - **Toko:** parent dari Elektronik  
-- **Elektronik:** → child dari Toko, parent dari Laptop  
-- **Laptop:** → child dari Elektronik  
+- **Elektronik:** child dari Toko, parent dari Laptop  
+- **Laptop:** child dari Elektronik  
 
 ### Class Toko  
 **Atribut:**  
-1. `id` → kode unik produk  
-2. `namaProduk` → nama laptop/produk  
-3. `harga` → harga produk  
-4. `fotoProduk` → path file gambar (khusus PHP)  
+1. `id:` kode unik produk  
+2. `namaProduk:` nama laptop/produk  
+3. `harga:` harga produk  
+4. `fotoProduk:` path file gambar (khusus PHP)  
 
 **Methods:**  
 - Constructor (kosong & dengan parameter)  
@@ -34,9 +28,9 @@ Program ini memiliki 3 class dengan hubungan **Multilevel Inheritance**:
 
 ### Class Elektronik  
 **Atribut:**  
-1. `kategori` → jenis produk elektronik  
-2. `jumlahStok` → jumlah barang tersedia  
-3. `statusBarang` → kondisi barang (Baru/Bekas)  
+1. `kategori:` jenis produk elektronik  
+2. `jumlahStok:` jumlah barang tersedia  
+3. `statusBarang:` kondisi barang (Baru/Bekas)  
 
 **Methods:**  
 - Constructor (kosong & dengan parameter, memanggil constructor Toko)  
@@ -44,9 +38,9 @@ Program ini memiliki 3 class dengan hubungan **Multilevel Inheritance**:
 
 ### Class Laptop  
 **Atribut:**  
-1. `merek` → brand laptop  
-2. `warna` → warna laptop  
-3. `processor` → jenis prosesor  
+1. `merek:` brand laptop  
+2. `warna:` warna laptop  
+3. `processor:` jenis prosesor  
 
 **Methods:**  
 - Constructor (kosong & dengan parameter, memanggil constructor Elektronik)  
@@ -95,6 +89,6 @@ Program ini memiliki 3 class dengan hubungan **Multilevel Inheritance**:
 ---
 
 ## Catatan  
-- Program ditulis menggunakan **C++**.  
+- Program ditulis menggunakan **C++, Java, Paython, dan Php**.  
 - Menggunakan konsep **OOP Multilevel Inheritance**.  
 - Tampilan data dibuat dalam bentuk **tabel dinamis**.  
