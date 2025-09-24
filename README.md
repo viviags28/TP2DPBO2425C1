@@ -1,11 +1,9 @@
-# Tugas Program 2  
 # Janji
 Saya Vivi Agustina Suryana dengan NIM 2400456 mengerjakan Tugas Praktikum 2 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan.
 
 ## Diagram  
 <img width="227" height="545" alt="Diagram tp2" src="https://github.com/user-attachments/assets/2871b46b-00bd-4d7f-8fd4-51594835c2e6" />
 
----
 
 ## Desain Program  
 
@@ -46,7 +44,6 @@ Program ini memiliki 3 class dengan hubungan **Multilevel Inheritance**:
 - Constructor (kosong & dengan parameter, memanggil constructor Elektronik)  
 - Getter & Setter untuk semua atribut  
 
----
 
 ## Alur Program  
 
@@ -67,7 +64,6 @@ Program ini memiliki 3 class dengan hubungan **Multilevel Inheritance**:
    - User memilih keluar.  
    - Program berhenti dan tidak menerima input lagi.  
 
----
 
 ## Dokumentasi  
 
@@ -86,7 +82,6 @@ Program ini memiliki 3 class dengan hubungan **Multilevel Inheritance**:
 ### 5. Keluar dari program (opsi 3)  
 <img width="687" height="201" alt="exit" src="https://github.com/user-attachments/assets/4e720bd9-f471-4b9c-8174-67ec1960fceb" />
 
----
 
 ## Catatan  
 - Program ditulis menggunakan **C++, Java, Paython, dan Php**.  
