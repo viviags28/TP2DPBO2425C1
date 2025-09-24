@@ -19,13 +19,13 @@ echo "
             <th>ID</th>
             <th>Nama Produk</th>
             <th>Harga</th>
+            <th>Foto Produk</th>
             <th>Kategori</th>
             <th>Stok</th>
             <th>Status</th>
             <th>Merek</th>
             <th>Warna</th>
             <th>Processor</th>
-            <th>Foto Produk</th>
         </tr>";
 
 // Looping untuk menampilkan setiap laptop
@@ -34,13 +34,13 @@ foreach ($daftarLaptop as $l) {
     echo "<td>" . $l->getId() . "</td>"; 
     echo "<td>" . $l->getNamaProduk() . "</td>";
     echo "<td>Rp " . number_format($l->getHarga(), 0, ',', '.') . "</td>";
+    echo "<td><img src='" . $l->getFotoProduk() . "' width='80'></td>";
     echo "<td>" . $l->getKategori() . "</td>";
     echo "<td>" . $l->getJumlahStok() . "</td>";
     echo "<td>" . $l->getStatusBarang() . "</td>";
     echo "<td>" . $l->getMerek() . "</td>";
     echo "<td>" . $l->getWarna() . "</td>";
     echo "<td>" . $l->getProcessor() . "</td>";
-    echo "<td><img src='" . $l->getFotoProduk() . "' width='80'></td>";
     echo "</tr>";
 }
 echo "</table>";
